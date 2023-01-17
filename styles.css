@@ -1,0 +1,26 @@
+h2{
+font:Poppins;
+font-size: 36px;
+font-style: Bold;
+}
+h1{
+  font: "Playfair Display"; 
+  font-size: 96px;
+  font-style: Bold;
+}
+.some{
+   text-align: center;
+   background-color: #F9F7FE;
+   padding: 160px;
+}
+p{
+font: Poppins;
+font-size: 24px;
+font-style: Regular;
+}
+.btn btn-primary{
+   padding:18px,30px,18px,30px ;
+   font:Poppins ;
+   font-size: 18px;
+   border-radius: 4px;
+}
